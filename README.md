@@ -1,5 +1,9 @@
 # B站右栏清理 · BiliRightClean
 
+![version](https://img.shields.io/badge/version-1.2.0-blue)
+![license](https://img.shields.io/badge/license-MIT-green)
+![platform](https://img.shields.io/badge/platform-Edge%20%7C%20Chrome-lightgrey)
+
 给 B 站用的 Edge / Chrome 扩展（Manifest V3）。
 
 **一句话：把首页变成 Google 那样只剩搜索框，把顶栏砍到只剩「首页 + 头像」，把视频页右栏砍到只剩「UP 主卡 + 视频选集」。**
@@ -22,7 +26,7 @@
 
 1. 地址栏打开 `edge://extensions/`
 2. 左下角打开 **开发人员模式**
-3. 点 **加载解压缩的扩展**，选中本文件夹
+3. 点 **加载解压缩的扩展**，选中解压出来的 BiliRightClean-main 或扩展文件夹
 4. 打开 B 站任意页面
 
 > 以后更新：把新文件覆盖到同一目录 → 点扩展卡片上的**重新加载**（圆形箭头）→ 刷新页面。不用删掉重装。

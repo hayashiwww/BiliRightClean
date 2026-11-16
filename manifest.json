@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "B站右栏清理 · BiliRightClean",
   "version": "1.2.0",
-  "description": "去掉 B 站视频页右侧的推荐栏、「接下来播放」、弹幕列表和页面广告，只留你想看的内容。",
+  "description": "顶栏只留首页+头像，首页变成只剩搜索框，视频页右栏只留 UP 主卡与选集。纯前端注入，可开关。",
   "minimum_chrome_version": "105",
   "permissions": ["storage"],
   "icons": {
